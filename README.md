@@ -1,8 +1,10 @@
 # PlaneShootGame
 飞机射击小游戏
 
-右上角那个绿色的Code按钮里的Download ZIP就是打包下载
+右上角那个绿色的Code按钮里的Download ZIP就是打包下载代码和资源包，如
+果只下代码的话，RES类中导入资源的路径需要你自己改一下
 
+eclipse项目文件压缩包我放在了release
 PlaneShootGame文件夹就是eclipse项目文件，直接将项目导入eclipse即可
 （如果只是想拿代码的兄弟或姐妹在PlaneShootGame里面的src文件夹就是放
 代码的地方，resources文件夹是放媒体资源的地方，RES类中导入资源的路径
