@@ -4,11 +4,9 @@
 右上角那个绿色的Code按钮里的Download ZIP就是打包下载代码和资源包，如
 果只下代码的话，RES类中导入资源的路径需要你自己改一下
 
-eclipse项目文件压缩包我放在了release
-PlaneShootGame文件夹就是eclipse项目文件，直接将项目导入eclipse即可
-（如果只是想拿代码的兄弟或姐妹在PlaneShootGame里面的src文件夹就是放
-代码的地方，resources文件夹是放媒体资源的地方，RES类中导入资源的路径
-你要自己改一下），如果不会导入的话看一下我一起上传的视频。
+eclipse项目文件压缩包我放在了releases里面，下载解压后可直接导入eclipse，
+PlaneShootGame文件夹就是eclipse项目文件，直接将项目导入eclipse即可，
+如果不会导入的话看一下我一起上传的视频。
 
 因为我项目导入资源的方式需要你将RES类中的电脑用户名更改一下，我已经将
 需要改成你电脑用户名的地方换成了一行提醒你的中文。
